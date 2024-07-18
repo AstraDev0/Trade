@@ -31,7 +31,6 @@ This repository contains a Python-based high-frequency trading bot that utilizes
    ```
 
 3. **Configuration:**
-   - Modify `config.py` to adjust trading parameters and environment settings.
    - Ensure correct paths and access to training datasets and simulated trading interface.
 
 ## Usage
